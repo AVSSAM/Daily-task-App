@@ -23,7 +23,7 @@
         <ul>
             <li>Create a New Task</li>
             <li>Delete , Update Task</li>
-            <li>Fullfunctioning login,signin,logout,Reset password,Forget Password Sections</li>
+            <li>Full functioning login,signin,logout,Reset password,Forget Password Sections</li>
             <li>Table Data Collection</li>
         </ul>
         <h3>See Project</h3>
